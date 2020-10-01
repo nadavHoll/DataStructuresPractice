@@ -6,7 +6,7 @@ import javax.xml.soap.Node;
 
 /*
 *
-*   LinkedListNadav is a bi-directional list with references to the first and last elements of the list.
+*   LinkedListNadav is a bi-directional list with references to the first and previous elements of the list.
 *   NodeNadav is a helper class for the elements of the list, it is NOT accessible to the user.
 *
 * */
